@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.d7e30ccd.css",
-    "main.js": "/static/js/main.60acf157.js",
+    "main.css": "/static/css/main.39596645.css",
+    "main.js": "/static/js/main.45962353.js",
     "static/media/vanessa-picture.png": "/static/media/vanessa-picture.4ea9aff70f7ed4e19fe5.png",
     "static/media/art2.png": "/static/media/art2.9df0610056c8801db84b.png",
     "static/media/lowfi-consultation.svg": "/static/media/lowfi-consultation.dfee790f095ff162072fb8d61eee8053.svg",
@@ -21,11 +21,11 @@
     "static/media/Library_Smells.svg": "/static/media/Library_Smells.ab1236fda9220a37588c45a67556b67c.svg",
     "static/media/Crush_Map.svg": "/static/media/Crush_Map.e14822882ce33a38a481f0487de1393f.svg",
     "index.html": "/index.html",
-    "main.d7e30ccd.css.map": "/static/css/main.d7e30ccd.css.map",
-    "main.60acf157.js.map": "/static/js/main.60acf157.js.map"
+    "main.39596645.css.map": "/static/css/main.39596645.css.map",
+    "main.45962353.js.map": "/static/js/main.45962353.js.map"
   },
   "entrypoints": [
-    "static/css/main.d7e30ccd.css",
-    "static/js/main.60acf157.js"
+    "static/css/main.39596645.css",
+    "static/js/main.45962353.js"
   ]
 }
